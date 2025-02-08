@@ -11,3 +11,5 @@ This project analyzes loan data to identify trends and patterns. It applies **da
 - Uses libraries like Pandas, NumPy, Matplotlib, and Scikit-learn.
 
 You can modify parameters in the machine learning model and preprocessing steps to observe different outcomes.
+
+The algorithms used included KNN Classifier, Decision Tree Classifier, AdaBoost Classifier, and Random Forest Classifier, along with a comparison of their performance.
